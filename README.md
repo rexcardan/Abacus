@@ -12,4 +12,4 @@ On Nuget as [Abacus.Rex] (https://www.nuget.org/packages/Abacus.Rex/)
             var m = matrix4.M; //number of rows = 4
             var n = matrix4.N; //number of columns = 4;
 ```
-(http://mathurl.com/jksf4gy.png)
+![alt text](http://mathurl.com/jksf4gy.png "Identity matrix")
